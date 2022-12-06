@@ -1,0 +1,16 @@
+#!/bin/bash
+#!/bin/bash
+
+
+
+# Add 128 to the value stored in the TRUEKNOWLEDGE environment variable
+
+result=$((128 + $TRUEKNOWLEDGE))
+
+
+
+# Print the result followed by a new line
+
+echo "$result"
+
+
