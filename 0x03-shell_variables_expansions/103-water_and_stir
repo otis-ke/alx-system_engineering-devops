@@ -1,3 +1,2 @@
 #!/bin/bash
-print '%o\n' $((5#$(echo SWATER | tr water 01234) +5#$( echo $STIR | tr stirr 
-. 01234 ) )) | tr o01234567 bestchol 
+print '%o\n' $((5#$(echo SWATER | tr water 01234) +5#$( echo $STIR | tr stirr . 01234 ) )) | tr o01234567 bestchol 
