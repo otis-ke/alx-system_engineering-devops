@@ -1,5 +1,5 @@
 # ssh configure
 
-Host <100.26.252.242>
+    Host 54.236.50.64
     IdentityFile ~/.ssh/school
     PasswordAuthentication no
