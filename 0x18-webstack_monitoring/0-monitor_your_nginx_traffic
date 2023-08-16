@@ -1,1 +1,1 @@
-DD_API_KEY=2339d616814c850087e971315d2b5a08 DD_SITE="datadoghq.com" ksh -c "$(curl -L https://raw.githubusercontent.com/DataDog/datadog-unix-agent/master/scripts/install_script.sh)"
+i
