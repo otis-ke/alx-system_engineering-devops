@@ -16,4 +16,4 @@ ALX-provided server.
 * **2. Client configuration file**
   * [2-ssh_config](./2-ssh_config): SSH configuration file configured to use the private key
 `~/.ssh/school` and to refuse authentication using a password.
-ssh@root
+
