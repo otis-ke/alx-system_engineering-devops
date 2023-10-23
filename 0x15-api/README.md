@@ -1,5 +1,5 @@
 # API
-vincent  otis kisia making contributions slwoly and am still wondering how this was 
+vincent  otis kisia making contributions slwoly and am still wondering how this 
 
  
 This project was further practice in working with API's. I collected data from the
