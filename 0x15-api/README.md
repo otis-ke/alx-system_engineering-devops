@@ -6,7 +6,7 @@ This project was further practice in working with API's. I collected data from t
 [JSONPlaceholder REST API](https://jsonplaceholder.typicode.com/), and learned how
 to export it to either CSV or JSON format.
 
-## Tasks :page
+## Tasks 
 
 * **0. Gather data from an API**
   * [0-gather_data_from_an_API.py](./0-gather_data_from_an_API.py): Python script
