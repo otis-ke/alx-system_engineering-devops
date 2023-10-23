@@ -1,5 +1,5 @@
 # API
-vincent  otis kisia making contributions slwoly and am still wondering how this was archived i dont wanna put a branch 
+vincent  otis kisia making contributions slwoly and am still wondering how this was archived i dont wanna put a 
 
  
 This project was further practice in working with API's. I collected data from the
