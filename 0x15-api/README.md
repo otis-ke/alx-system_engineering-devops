@@ -1,5 +1,5 @@
 # API
-vincent  otis kisia making contributions 
+vincent  otis kisia making 
 
  
 This project was further practice in working with API's. I collected data from the
