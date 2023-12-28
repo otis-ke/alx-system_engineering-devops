@@ -8,7 +8,7 @@ This repository contains a collection of projects completed during the ALX Full 
 - [Projects](#projects)
 - [Author](#author)
 
-## Introduction
+## Introduction 
 
 The ALX System Engineering and DevOps module is part of the ALX Full Stack Software Engineering program. In this module, we delve into various aspects of system administration, shell scripting, network fundamentals, configuration management, and more.
 
