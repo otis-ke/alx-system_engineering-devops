@@ -3,7 +3,7 @@
 This repository contains a collection of projects completed during the ALX Full Stack Software Engineering program's System Engineering and DevOps module.
 
 ## Table of Contents
-xcc
+
 - [Introduction](#introduction)
 - [Projects](#projects)
 - [Author](#author)
