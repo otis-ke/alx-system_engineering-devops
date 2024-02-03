@@ -1,2 +1,2 @@
 # shell basics 
-shell  in  my masterckffk
+shell  in  my master 
