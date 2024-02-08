@@ -46,6 +46,7 @@ The following projects are included in this repository:
 - [command_line_for_the_win](command_line_for_the_win): Gaining command line mastery across different difficulties.
 
 ## Author
+**otis-ke**
 
 - **Vincent Otis** ([GitHub Profile](https://github.com/otis-ke))
 
