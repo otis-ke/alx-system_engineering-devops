@@ -4,6 +4,7 @@ This repository contains a collection of projects completed during the ALX Full 
 
 ## Table of Contents 
 
+
 - [Introduction](#introduction)
 - [Projects](#projects)
 - [Author](#author)
